@@ -1,0 +1,17 @@
+{
+    "MICROSECDONDS_PER_CM": 29.1366801667,
+    "domain": "http://192.168.1.29",
+    "pins": {
+        "trigger": 23,
+        "echo": 24,
+        "buttonSos": 15,
+        "servo": 14
+    },
+    "minmax": [
+        0,
+        10,
+        20,
+        30,
+        40
+    ]
+}
